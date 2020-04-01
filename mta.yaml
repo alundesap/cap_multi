@@ -52,11 +52,9 @@ resources:
 ### New Resources Here ###
 
  - name: capm-hdi
-   type: com.sap.xs.hdi-container
+   type: com.sap.xs.managed-hdi-container
    parameters:
       service-name: CAPM_HDI
-      config:
-         schema: 
 
  - name: capm-uaa
    parameters:
