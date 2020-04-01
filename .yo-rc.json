@@ -1,0 +1,21 @@
+{
+  "generator-sap-partner-eng": {
+    "project_name": "cap_multi",
+    "app_name": "capm",
+    "app_desc": "Cloud Application Programing Multitenant App",
+    "router_name": "capm-web",
+    "router_dir": "web",
+    "uaa_res_name": "capm-uaa",
+    "uaa_svc_name": "CAPM_UAA",
+    "db_name": "capm-hdb",
+    "db_dir": "db",
+    "db_schema_name": "",
+    "hdi_res_name": "capm-hdi",
+    "hdi_svc_name": "CAPM_HDI",
+    "srv_name": "capm-srv",
+    "srv_dir": "srv",
+    "srv_api": "capm_srv_api",
+    "srv_be": "capm_srv_be",
+    "srv_route": "catalog"
+  }
+}
